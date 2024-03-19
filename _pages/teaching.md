@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: teaching experience
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Queen’s University
+    Instructor 
+        ECON 250: Introductory Econometrics, Undergraduate, Winter 2022, Fall 2022, Fall 2023
+    Teaching Assistant 
+        ECON 882: Research Problems and Methodology (Machine Learning), Master’s, Winter 2021
+        ECON 850: Econometrics I, Doctoral, Fall 2020, Fall 2021
+        ECON 351: Introductory Econometrics, Undergraduate, Fall 2019, Winter 2020
+        ECON 445: Industrial Organization and Public Policy, Winter 2023
+Carleton 
+    Teaching Assistant
+        ECON 2220: Introductory Econometrics, Undergraduate, Fall 2018, Winter 2019
