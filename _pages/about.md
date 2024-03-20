@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Economics, Queen's University</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.econ.queensu.ca/'>Department of Economics, Queen's University</a>.
 
 profile:
   align: right
