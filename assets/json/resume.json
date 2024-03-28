@@ -4,7 +4,7 @@
     "label": "PhD Candidate",
     "image": "",
     "email": "m.hanzroh@queensu.ca",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "https://hanzrohm.github.io/",
     "summary": "",
     "location": {
@@ -29,7 +29,7 @@
       "url": "https://www.econ.queensu.ca/",
       "area": "Industrial Organization, Quantitative Marketing",
       "studyType": "PhD",
-      "startDate": "2019",
+      "startDate": "",
       "endDate": "2025 (Expected)",
       "score": "",
       "courses": []
@@ -40,7 +40,7 @@
       "url": "https://carleton.ca/economics/",
       "area": "Economics",
       "studyType": "MA",
-      "startDate": "2018",
+      "startDate": "",
       "endDate": "2019",
       "score": "",
       "courses": []
@@ -51,7 +51,7 @@
       "url": "https://www.utm.utoronto.ca/management/",
       "area": "Finance and Economics",
       "studyType": "BComm",
-      "startDate": "2013",
+      "startDate": "",
       "endDate": "2018",
       "score": "",
       "courses": []
@@ -101,7 +101,7 @@
       "summary": ""
     }
   ],
-  "publications": [
+  "research": [
     {
       "name": "Multi Source Consumer Search (Job Market Paper)",
       "publisher": "Working Paper",
@@ -120,32 +120,32 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "Punjabi",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "Hindi",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Intermediate speaker",
+      "fluency": "Intermediate",
       "icon": ""
     },
     {
       "language": "Japanese",
-      "fluency": "Beginner speaker",
+      "fluency": "Beginner",
       "icon": ""
     },
     {
       "language": "Korean",
-      "fluency": "Beginner speaker",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
@@ -163,7 +163,7 @@
     {
       "name": "Professor Robert Clark",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ]
 }
