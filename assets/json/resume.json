@@ -22,8 +22,8 @@
       "url": "https://www.econ.queensu.ca/",
       "area": "Industrial Organization, Quantitative Marketing",
       "studyType": "PhD",
-      "startDate": "",
-      "endDate": "2025 (Expected)",
+      "startDate": "2025-01-01 (Expected)",
+      "endDate": "2025-01-01 (Expected)",
       "score": "",
       "courses": []
     },
@@ -33,8 +33,8 @@
       "url": "https://carleton.ca/economics/",
       "area": "Economics",
       "studyType": "MA",
-      "startDate": "",
-      "endDate": "2019",
+      "startDate": "2019-01-01",
+      "endDate": "2019-01-01",
       "score": "",
       "courses": []
     },
@@ -44,8 +44,8 @@
       "url": "https://www.utm.utoronto.ca/management/",
       "area": "Finance and Economics",
       "studyType": "BComm",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
       "score": "",
       "courses": []
     }
