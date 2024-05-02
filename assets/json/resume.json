@@ -13,14 +13,7 @@
       "city": "Kingston",
       "countryCode": "CA",
       "region": "Ontario"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "education": [
     {
@@ -29,7 +22,7 @@
       "url": "https://www.econ.queensu.ca/",
       "area": "Industrial Organization, Quantitative Marketing",
       "studyType": "PhD",
-      "startDate": "2025 (Expected)",
+      "startDate": "",
       "endDate": "2025 (Expected)",
       "score": "",
       "courses": []
@@ -40,7 +33,7 @@
       "url": "https://carleton.ca/economics/",
       "area": "Economics",
       "studyType": "MA",
-      "startDate": "2019",
+      "startDate": "",
       "endDate": "2019",
       "score": "",
       "courses": []
@@ -51,7 +44,7 @@
       "url": "https://www.utm.utoronto.ca/management/",
       "area": "Finance and Economics",
       "studyType": "BComm",
-      "startDate": "2018",
+      "startDate": "",
       "endDate": "2018",
       "score": "",
       "courses": []
