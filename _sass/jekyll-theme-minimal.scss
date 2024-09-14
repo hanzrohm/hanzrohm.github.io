@@ -3,11 +3,147 @@
 
 body {
   background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  padding: 50px;
+  font: 14px/1.5 "Palatino", "Palatino Linotype", "Book Antiqua", serif;
+  color: #313131;
+  font-weight: 400;
 }
+
+header {
+  width: 270px; /* Fixed width for the header/nav */
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+  background: #ffffff; /* Optional: Background color for clarity */
+}
+
+header h1 {
+  text-align: right; /* Right-align the title text */
+  margin: 0;
+  padding: 0px; /* Optional: Add padding for spacing */
+}
+
+header p {
+  text-align: right; /* Right-align the title text */
+  margin: 0;
+  padding: 0px; /* Optional: Add padding for spacing */
+}
+
+section {
+  margin-left: 290px; /* Leave space for the fixed header (header width + some margin) */
+  width: 900px; /* Adjust the width as needed */
+  padding-bottom: 0px;
+  float: right;
+}
+
+.wrapper {
+  width: 1000px; /* Adjust the wrapper width if needed */
+  margin: 0 auto;
+}
+
+/* Adjust for smaller screens */
+@media print, screen and (max-width: 960px) {
+  header {
+    width: auto;
+    position: static;
+    float: none;
+    background: none; /* Reset background color if not needed */
+  }
+
+  section {
+    margin-left: 0; /* Remove margin for smaller screens */
+    width: auto;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap: break-word;
+  }
+
+  section {
+    width: auto; /* Make section responsive on smaller screens */
+    margin-left: 0;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+
+  .downloads {
+    width: 99%;
+  }
+
+  .downloads li, .downloads li + li + li {
+    width: 33%;
+  }
+
+  section {
+    width: auto; /* Adjust width for very small screens */
+    margin-left: 0;
+  }
+}
+
+header {
+  font: 16px/1.5 'Palatino', 'Palatino Linotype', 'Book Antiqua', serif;
+  padding: 10px 0;
+}
+
+aside h1 {
+  text-align: right; /* Aligns the header text to the right */
+  margin: 0;
+  font-size: 24px; /* Adjust size as needed */
+}
+
+nav {
+  text-align: right; /* Aligns the text to the right */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin: 10px 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #267CB9;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #069;
+}
+
+/* Additional styles to match HTML 2 font settings */
+h1, h2, h3, h4, h5, h6 {
+  font: 'Palatino', 'Palatino Linotype', 'Book Antiqua', serif;
+}
+
+@media (max-width: 960px) {
+  aside {
+    position: static;
+    width: 100%;
+  }
+
+  section {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1800px) {
+  .wrapper {
+    width: 95%; /* Set larger width for really big screens */
+  }
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
