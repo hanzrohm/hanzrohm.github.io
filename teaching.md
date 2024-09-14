@@ -4,13 +4,15 @@ layout: default
 
 # Queen’s University  
 ## Instructor  
-ECON 250: Introductory Econometrics, Winter 2022, Fall 2022, Fall 2023  
+<p style="text-align:left;"> ECON 250: Introductory Statistics <span style="float:right;"> Winter 2022, Fall 2022, Fall 2023 </span></p>
+
 ## Teaching Assistant  
-ECON 262: Labour Markets and Gender Differences, Winter 2024  
-ECON 445: Industrial Organization and Public Policy, Winter 2023  
-ECON 882: Research Problems and Methodology (Machine Learning), MA Level, Winter 2021  
-ECON 850: Econometrics I, PhD Level, Fall 2020, Fall 2021  
-ECON 351: Introductory Econometrics, Fall 2019, Winter 2020  
+<p style="text-align:left;"> ECON 262: Labour Markets and Gender Differences <span style="float:right;"> Winter 2024 </span><br>
+ECON 445: Industrial Organization and Public Policy <span style="float:right;"> Winter 2023 </span><br>
+ECON 882: Research Problems and Methodology (Machine Learning), MA Level <span style="float:right;"> Winter 2021 </span><br>
+ECON 850: Econometrics I, PhD Level <span style="float:right;"> Fall 2020, Fall 2021 </span><br>
+ECON 351: Introductory Econometrics <span style="float:right;"> Fall 2019, Winter 2020 </span></p>
+
 # Carleton University  
 ## Teaching Assistant
-ECON 2220: Introductory Econometrics, Fall 2018, Winter 2019
+<p style="text-align:left;"> ECON 2220: Introductory Econometrics <span style="float:right;"> Fall 2018, Winter 2019 </span></p>
