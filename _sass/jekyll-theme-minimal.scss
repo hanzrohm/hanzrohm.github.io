@@ -3,7 +3,7 @@
 
 body {
   background-color: #fff;
-  padding: 50px;
+  padding: 20px;
   font: 16px/1.5 "Palatino", "Palatino Linotype", "Book Antiqua", serif;
   color: #313131;
   font-weight: 400;
@@ -99,7 +99,7 @@ section {
     margin-left: 0;
     margin-top: 70px; /* Push content down to make space for the header */
     width: 100%; /* Full width for content */
-    padding: 15px; /* Add padding for readability */
+    padding: 0px; /* Add padding for readability */
   }
 }
 
@@ -114,7 +114,7 @@ section {
 
   section {
     margin-top: 70px;
-    padding: 10px;
+    padding: 0px;
   }
 }
 
@@ -129,7 +129,7 @@ section {
 
   section {
     margin-top: 80px;
-    padding: 10px;
+    padding: 0px;
     width: 100%; /* Full width for content on small screens */
   }
 }
