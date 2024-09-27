@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 
+
 body {
   background-color: #fff;
   padding: 20px;
@@ -12,7 +13,7 @@ body {
 header {
   position: fixed;
   top: 100px;
-  left: 0;
+  left: 100px;
   width: 270px; /* Vertical layout on desktop */
   height: 100vh; /* Full height for desktop */
   -webkit-font-smoothing: subpixel-antialiased;
@@ -53,6 +54,8 @@ section {
   margin-left: 270px; /* Leave space for the fixed vertical header on desktop */
   padding: 20px;
   width: calc(90% - 270px);
+  max-width: 1100px; /* Limit the width to a maximum value */
+  margin: 0 auto; /* Center the section */
 }
 
 .wrapper {
