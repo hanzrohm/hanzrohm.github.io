@@ -13,7 +13,7 @@ body {
 header {
   position: fixed;
   top: 100px;
-  left: 100px;
+  left: 0px;
   width: 270px; /* Vertical layout on desktop */
   height: 100vh; /* Full height for desktop */
   -webkit-font-smoothing: subpixel-antialiased;
@@ -51,11 +51,11 @@ nav ul li a:hover {
 }
 
 section {
-  margin-left: 270px; /* Leave space for the fixed vertical header on desktop */
+  text-align: left;
+  margin-left: 250px; /* Leave space for the fixed vertical header on desktop */
   padding: 20px;
-  width: calc(90% - 270px);
-  max-width: 1100px; /* Limit the width to a maximum value */
-  margin: 0 auto; /* Center the section */
+  width: calc(100% - 250px);
+  max-width: 1100px; /* Limit the width to a maximum value */ /* Center the section */
 }
 
 .wrapper {
@@ -131,7 +131,7 @@ section {
   }
 
   section {
-    margin-left: 0;
+    margin-left: 0px;
     margin-top: 90px;
     margin-bottom: 40px; /* Push content down to make space for the header */
     width: 100%; /* Full width for content */
@@ -283,8 +283,3 @@ small {
   font-weight: bold;
 }
 
-@media (min-width: 1800px) {
-  .wrapper {
-    width: 95%;
-  }
-}
