@@ -11,6 +11,8 @@ layout: default
 
 ## Teaching Assistant  
 <p style="text-align:left;"> 
+  PPEC 200: Intro to Politics, Philosophy, and Economics 
+  <span class="date">Fall 2024</span><br>
   ECON 262: Labour Markets and Gender Differences 
   <span class="date">Winter 2024</span><br>
   ECON 445: Industrial Organization and Public Policy 
