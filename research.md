@@ -2,7 +2,7 @@
 layout: default
 ---
 # Working Papers
-## Consumer Search for Experience Goods and Retailer Information Quality: Evidence from Online Search for Cameras  
+## [Consumer Search for Experience Goods and Retailer Information Quality: Evidence from Online Search for Cameras](/docs/inf_qual_con_srch.pdf)    
 *Job Market Paper*  
 Abstract: This paper develops and estimates a consumer search model for experience goods - products that are challenging to evaluate without direct use - available across multiple retailers. Beyond price uncertainty, consumers also face uncertainty about product suitability (match values) and form expectations about the quality of the match-value information available at different retailers, available for instance through consumer reviews. Consumers direct search across retailers based on their expectations about prices, retailer preferences, and expectations about match information quality. Consumers gain more precise match signals at retailers with higher quality match information, which makes finding a well-matched product more efficient. Analyzing clickstream data on camera searches, I document search behaviors that cannot be explained by models lacking expectations about information quality. Structural estimation indicates that larger retailers, such as Amazon and Walmart, provide higher-quality information, which I quantify enhances consumer welfare by 8.35%. Additionally, I show that retailers with superior information quality have an increased capacity to steer consumers and extract rents.  
 *Presented at CEA 2024*
