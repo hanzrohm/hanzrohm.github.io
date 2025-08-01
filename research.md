@@ -4,6 +4,7 @@ layout: default
 # Working Papers
 ## Position Auctions with Organic Search
 *with [Qidi Hu](https://sites.google.com/view/qidi-hu/home)*
+  
 Abstract: Recent regulatory actions, such as the FTC v. Amazon antitrust case, have raised concerns about the impact of sponsored advertisements on consumer welfare in online search platforms. While theoretical models of position auctions typically predict that sellers are ranked by consumer-match/seller-quality in equilibrium, these models often abstract from the coexistence of sponsored and organic listings. We develop a model in which sellers can appear in both sponsored and organic positions and examine how this affects equilibrium outcomes and consumer welfare. Our model captures a key tradeoff: high-quality sellers value the visibility from sponsored placement but also expect to appear prominently in organic rankings. As a result, under certain conditions, lower-quality sellers may outbid them to obtain the sponsored position - lending some support to the FTC’s concern. However, we show that this outcome only arises when all sellers are relatively high-quality, which limits potential consumer harm.
 
 ## [Consumer Search for Experience Goods and Retailer Information Quality: Evidence from Online Search for Cameras](/docs/inf_qual_con_srch.pdf)    
