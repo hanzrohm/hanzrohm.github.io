@@ -3,7 +3,7 @@
 
 
 body {
-  background-color: #fff;
+  background-color: #f1efec;
   padding: 20px;
   font: 16px/1.5 "Palatino", "Palatino Linotype", "Book Antiqua", serif;
   color: #313131;
@@ -17,7 +17,7 @@ header {
   width: 270px; /* Vertical layout on desktop */
   height: 100vh; /* Full height for desktop */
   -webkit-font-smoothing: subpixel-antialiased;
-  background: #fff;
+  background: #f1efec;
   font: 16px/1.5 'Palatino', 'Palatino Linotype', 'Book Antiqua', serif;
   padding: 10px;
   z-index: 1000;
@@ -104,7 +104,7 @@ section {
     display: none;
   }
   .responsive-footer {
-    display: block; /* or flex, depending on your layout */
+    display: flex; /* or flex, depending on your layout */
   }
 }
 
@@ -237,7 +237,7 @@ footer {
   width: 100%;
   position: fixed;
   bottom: 0;
-  background: #fff;
+  background: #f1efec;
   text-align: left;
   padding: 10px;
 }
